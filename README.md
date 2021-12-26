@@ -1,2 +1,2 @@
 # Second
-Secon repository test
+Second repository test
